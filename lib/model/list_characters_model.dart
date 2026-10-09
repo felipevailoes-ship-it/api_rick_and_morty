@@ -1,4 +1,4 @@
-import 'package:rick_morty/model/character_model.dart';
+import 'character_model.dart';
 
 class ListCharacters {
   final List<CharacterModel> listCharacters;
